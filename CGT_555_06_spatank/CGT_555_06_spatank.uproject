@@ -5,10 +5,24 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
+			"Name": "EpicLeaderboard",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
 			]
 		}
 	]
