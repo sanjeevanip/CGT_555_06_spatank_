@@ -1323,3 +1323,133 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.15-22.17.56:161][841]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training847E9F464FD92B959DA860A75954701E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
 [2024.01.15-22.17.56:190][841]AssetCheck: New page: Asset Save: L_Aim_Training
 [2024.01.15-22.17.56:190][841]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.15-22.19.00:906][330]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.01.15-22.19.00:910][330]LogContentBrowser: Creating deferred item: NewInterface
+[2024.01.15-22.19.00:924][332]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.01.15-22.19.10:285][449]LogContentBrowser: Attempting asset rename: NewInterface -> BPi_Damage
+[2024.01.15-22.19.10:285][449]LogContentBrowser: End creating deferred item NewInterface
+[2024.01.15-22.19.12:703][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BPi_Damage.BPi_Damage
+[2024.01.15-22.19.12:703][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-22.19.35:093][370]BlueprintLog: New page: Compile BPi_Damage
+[2024.01.15-22.19.35:124][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.15-22.19.35:419][400]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPi_Damage
+[2024.01.15-22.19.35:419][400]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPi_DamageC26C0EF3479E3C9C192D9FAA5C63040B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPi_Damage.uasset'
+[2024.01.15-22.19.35:431][400]AssetCheck: New page: Asset Save: BPi_Damage
+[2024.01.15-22.19.35:431][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPi_Damage.BPi_Damage
+[2024.01.15-22.20.20:619][788]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.15-22.20.31:211][ 21]BlueprintLog: New page: Compile BP_Target
+[2024.01.15-22.20.31:259][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.15-22.20.31:784][ 72]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.15-22.20.31:789][ 72]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target36BD36FC41AD1A151E4CA391B0E78980.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.15-22.20.31:804][ 72]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.15-22.20.31:804][ 72]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.15-22.20.33:519][260]BlueprintLog: New page: Compile L_Aim_Training
+[2024.01.15-22.20.33:561][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.15-22.20.34:009][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.15-22.20.34:020][303]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.15-22.20.34:024][303]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training7CE726844F75EA6A14422A96AC877EE6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.15-22.20.34:040][303]LogFileHelpers: Saving map 'L_Aim_Training' took 0.060
+[2024.01.15-22.20.34:048][303]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.15-22.20.34:048][303]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.15-22.21.39:449][850]LogAssetRegistry: Error: Package C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2024.01.15-22.21.39:455][851]LogAssetRegistry: Error: Package C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2024.01.15-22.22.57:720][980]BlueprintLog: New page: Compile BP_Target
+[2024.01.15-22.22.57:764][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.15-22.22.58:129][ 15]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.15-22.22.58:133][ 15]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target4FC5F9B44C26B864EF03DD8A69EADDAD.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.15-22.22.58:146][ 15]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.15-22.22.58:146][ 15]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.15-22.23.55:281][819]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.15-22.23.55:291][819]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.15-22.23.55:295][820]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.15-22.24.00:602][447]LogContentBrowser: Attempting asset rename: NewFolder -> Libraries
+[2024.01.15-22.24.00:602][447]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.15-22.24.09:457][462]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2024.01.15-22.24.09:460][462]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2024.01.15-22.24.09:473][464]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2024.01.15-22.24.19:819][696]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BPFL_Traces
+[2024.01.15-22.24.19:822][696]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2024.01.15-22.24.21:252][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BPFL_Traces.BPFL_Traces
+[2024.01.15-22.24.21:252][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-22.26.16:931][458]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.15-22.28.23:678][359]BlueprintLog: New page: Compile BPFL_Traces
+[2024.01.15-22.28.23:714][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.15-22.28.24:129][402]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BPFL_Traces
+[2024.01.15-22.28.24:129][402]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPFL_TracesADA0524E4CDA2ED8B4AD1595F821C653.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Libraries/BPFL_Traces.uasset'
+[2024.01.15-22.28.24:143][402]AssetCheck: New page: Asset Save: BPFL_Traces
+[2024.01.15-22.28.24:143][402]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/BPFL_Traces.BPFL_Traces
+[2024.01.15-22.28.25:719][588]BlueprintLog: New page: Compile BPFL_Traces
+[2024.01.15-22.28.25:747][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.15-22.28.26:253][642]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BPFL_Traces
+[2024.01.15-22.28.26:257][642]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPFL_Traces8735BB544CD20D532F5BC29634833022.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Libraries/BPFL_Traces.uasset'
+[2024.01.15-22.28.26:266][642]AssetCheck: New page: Asset Save: BPFL_Traces
+[2024.01.15-22.28.26:266][642]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/BPFL_Traces.BPFL_Traces
+[2024.01.15-22.28.35:843][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.15-22.28.35:854][759]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.15-22.28.35:859][759]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_TrainingE25AB8F44F6632D70BE957B05E5C3AE9.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.15-22.28.35:876][759]LogFileHelpers: Saving map 'L_Aim_Training' took 0.062
+[2024.01.15-22.28.35:884][759]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.15-22.28.35:884][759]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.15-22.29.17:395][373]BlueprintLog: New page: Compile BP_Generic_Interaction
+[2024.01.15-22.29.17:437][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.15-22.29.17:982][423]LogSavePackage: Moving output files for package: /Game/Blueprints/Generic_Interaction/BP_Generic_Interaction
+[2024.01.15-22.29.17:987][423]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Generic_InteractionBC64411142856BAF1D66AC9289074F6E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Generic_Interaction/BP_Generic_Interaction.uasset'
+[2024.01.15-22.29.17:996][423]AssetCheck: New page: Asset Save: BP_Generic_Interaction
+[2024.01.15-22.29.17:996][423]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Generic_Interaction/BP_Generic_Interaction.BP_Generic_Interaction
+[2024.01.15-22.29.38:891][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.15-22.29.38:902][910]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.15-22.29.38:907][910]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training2E926F9E4835E7C97019F993CA93F9A6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.15-22.29.38:923][910]LogFileHelpers: Saving map 'L_Aim_Training' took 0.060
+[2024.01.15-22.29.38:931][910]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.15-22.29.38:931][910]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.15-22.31.47:031][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.01.15-22.31.47:032][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-22.32.33:922][ 11]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.15-22.32.48:725][413]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.15-22.32.48:731][413]LogContentBrowser: Deferred new asset file creation: NewMacroLibrary
+[2024.01.15-22.32.48:734][413]LogContentBrowser: Creating deferred item: NewMacroLibrary
+[2024.01.15-22.32.48:738][414]LogContentBrowser: Renaming the item being created (Deferred Item: NewMacroLibrary).
+[2024.01.15-22.33.05:353][376]LogContentBrowser: Attempting asset rename: NewMacroLibrary -> BPML_Comparisons
+[2024.01.15-22.33.05:356][376]LogContentBrowser: End creating deferred item NewMacroLibrary
+[2024.01.15-22.33.06:960][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BPML_Comparisons.BPML_Comparisons
+[2024.01.15-22.33.06:960][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-22.34.17:628][913]LogEditorTransaction: Undo Add In Parameter
+[2024.01.15-22.36.17:070][827]LogEditorTransaction: Undo Create Pin Link
+[2024.01.15-22.37.03:382][326]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.15-22.37.06:738][689]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BPML_Comparisons
+[2024.01.15-22.37.06:738][689]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPML_Comparisons82306475499AFBCFC02FD785EDB30425.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Libraries/BPML_Comparisons.uasset'
+[2024.01.15-22.37.06:765][689]AssetCheck: New page: Asset Save: BPML_Comparisons
+[2024.01.15-22.37.06:765][689]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/BPML_Comparisons.BPML_Comparisons
+[2024.01.15-22.37.41:402][720]BlueprintLog: New page: Compile L_Aim_Training
+[2024.01.15-22.37.41:456][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.15-22.37.42:295][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.15-22.37.42:306][812]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.15-22.37.42:322][812]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_TrainingF9C9D2254AD86B0367288AAEA50ECB13.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.15-22.37.42:338][812]LogFileHelpers: Saving map 'L_Aim_Training' took 0.074
+[2024.01.15-22.37.42:345][812]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.15-22.37.42:345][812]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.15-22.37.54:719][290]LogSlate: Window 'BPML_Comparisons' being destroyed
+[2024.01.15-22.37.54:723][290]LogSlate: Window 'BPML_Comparisons' being destroyed
+[2024.01.15-22.37.54:739][290]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:739][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:783][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.15-22.37.54:783][290]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:783][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:838][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.15-22.37.54:838][290]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:838][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:884][290]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:884][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:916][290]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:916][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:934][290]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:935][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:959][290]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:959][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.54:991][290]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-22.37.54:991][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-22.37.57:820][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.15-22.37.57:837][608]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.15-22.37.57:843][608]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training8545BC4B42A19F6D500F8B8408C52732.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.15-22.37.57:867][608]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.15-22.37.57:867][608]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
