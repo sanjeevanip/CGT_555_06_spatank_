@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset",
+				"C:/Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/E_TargetBehavior.uasset"
 			]
 		}
 	]
