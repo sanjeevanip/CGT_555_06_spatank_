@@ -1782,3 +1782,42 @@ Script Stack (0 frames):
 [2024.01.19-23.26.44:983][780]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training_Auto3BA0BA0F24AC9A59A3C81F7891B3982AE.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.umap'
 [2024.01.19-23.26.45:001][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.101
 [2024.01.19-23.26.45:001][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2024.01.19-23.28.57:681][583]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.28.57:688][583]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_Spawner5CFEF9104721228B3F7806AA3CEA49AC.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.28.57:700][583]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.28.57:700][583]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.28.58:868][715]LogSlate: Window 'BPS_AimTrainerSave' being destroyed
+[2024.01.19-23.28.58:872][715]LogSlate: Window 'BPS_AimTrainerSave' being destroyed
+[2024.01.19-23.28.58:905][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.58:905][715]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.58:905][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.58:954][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.58:954][715]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.58:954][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:002][715]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:002][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:036][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.59:036][715]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:036][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:093][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.59:093][715]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:093][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:135][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.59:135][715]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:135][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:184][715]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:184][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:220][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-23.28.59:220][715]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:220][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:275][715]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:275][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:287][715]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:287][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.28.59:333][715]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.28.59:333][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.29.05:798][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.19-23.29.05:814][441]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-23.29.05:819][441]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_TrainingAA5AB021432F03BED0D0C58368096090.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-23.29.05:845][441]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-23.29.05:845][441]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
