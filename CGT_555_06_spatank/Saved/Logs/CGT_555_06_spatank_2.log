@@ -1016,3 +1016,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.19-23.32.06:050][670]LogSlate: Window 'BP_Target_Spawner' being destroyed
 [2024.01.19-23.32.06:064][670]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2024.01.19-23.32.06:064][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.34.54:335][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.19-23.34.54:357][413]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-23.34.54:363][413]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training4EED2FE54DFFB38619B20780CD9F3FDC.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-23.34.54:398][413]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-23.34.54:398][413]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
