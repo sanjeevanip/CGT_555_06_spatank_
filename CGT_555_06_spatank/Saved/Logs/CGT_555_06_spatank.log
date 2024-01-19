@@ -1673,3 +1673,112 @@ Script Stack (0 frames):
 [2024.01.19-22.52.39:696][197]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training6CBB302C4B432757D91CC48F22050415.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
 [2024.01.19-22.52.39:724][197]AssetCheck: New page: Asset Save: L_Aim_Training
 [2024.01.19-22.52.39:724][197]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-22.53.46:486][929]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.19-22.53.48:474][929]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.01.19-22.53.48:481][929]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.19-22.53.48:488][929]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.19-22.53.48:508][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.19-22.53.53:091][460]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Score
+[2024.01.19-22.53.53:094][460]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.19-22.53.57:924][ 35]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Target/WB_Score.WB_Score
+[2024.01.19-22.53.57:925][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.53.57:926][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.53.57:927][ 35]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.19-22.53.58:120][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.01.19-22.53.58:120][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.01.19-22.53.58:187][ 35]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.19-22.54.56:717][938]LogSlate: Took 0.009524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.19-22.57.23:650][423]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.01.19-22.57.34:380][511]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.01.19-22.57.34:765][518]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.01.19-22.57.35:486][588]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.19-22.57.40:834][223]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.19-23.06.05:441][354]BlueprintLog: New page: Compile WB_Score
+[2024.01.19-23.06.05:536][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.01.19-23.06.06:102][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/WB_Score
+[2024.01.19-23.06.06:102][397]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/WB_Score3E3BB88340C3C92E6B3D2DB31FC5752A.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/WB_Score.uasset'
+[2024.01.19-23.06.06:115][397]AssetCheck: New page: Asset Save: WB_Score
+[2024.01.19-23.06.06:115][397]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Target/WB_Score.WB_Score
+[2024.01.19-23.07.06:109][955]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.19-23.08.25:548][169]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.08.25:635][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.19-23.08.26:174][219]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.08.26:179][219]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_SpawnerD2737B1A4DB393A15033579D08DC2D9E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.08.26:191][219]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.08.26:191][219]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.10.47:824][589]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.10.47:909][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.19-23.10.48:609][648]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.10.48:613][648]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_SpawnerE2CCA9CE4FFE4A5126EFC992EC3E9916.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.10.48:625][648]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.10.48:625][648]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.11.34:840][ 62]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.11.34:913][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.19-23.11.35:508][106]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.11.35:512][106]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_SpawnerC157390442154E44BB3576A3F3A559E6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.11.35:522][106]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.11.35:522][106]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.11.43:953][115]LogDerivedDataCache: C:/Users/spatank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.502 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.19-23.12.01:487][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.19-23.12.01:503][151]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2
+[2024.01.19-23.12.01:508][151]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training_Auto2E85EFD384C6A5536746262820A729515.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.umap'
+[2024.01.19-23.12.01:525][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.085
+[2024.01.19-23.12.01:525][151]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2024.01.19-23.15.29:563][ 17]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.19-23.15.36:501][ 17]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.19-23.15.36:509][ 17]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.19-23.15.36:517][ 17]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.19-23.15.36:531][ 18]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.19-23.15.38:794][261]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.19-23.15.38:797][261]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.19-23.15.53:292][962]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPS_AimTrainerSave
+[2024.01.19-23.15.53:313][962]LogMetaData: Removing '/Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.SKEL_BPS_AimTrainerSave_C' ref from Metadata '/Game/Blueprints/FirstPersonTemplate/NewBlueprint.PackageMetaData'
+[2024.01.19-23.15.53:313][962]LogMetaData: Removing '/Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.BPS_AimTrainerSave_C' ref from Metadata '/Game/Blueprints/FirstPersonTemplate/NewBlueprint.PackageMetaData'
+[2024.01.19-23.15.53:370][962]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave
+[2024.01.19-23.15.53:370][962]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPS_AimTrainerSave0B093DFD449EDDB3C585C99337036E9D.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.uasset'
+[2024.01.19-23.15.53:462][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.19-23.15.53:518][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.19-23.15.53:569][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.19-23.15.53:576][962]AssetCheck: New page: Asset Save: BPS_AimTrainerSave
+[2024.01.19-23.15.53:577][962]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.BPS_AimTrainerSave
+[2024.01.19-23.15.55:953][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonTemplate/GM_FirstPersonGameMode.GM_FirstPersonGameMode
+[2024.01.19-23.15.55:954][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-23.15.58:256][458]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-23.15.58:256][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-23.16.02:374][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.BPS_AimTrainerSave
+[2024.01.19-23.16.02:374][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-23.16.22:317][266]BlueprintLog: New page: Compile BPS_AimTrainerSave
+[2024.01.19-23.16.22:376][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.19-23.16.23:499][388]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave
+[2024.01.19-23.16.23:504][388]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPS_AimTrainerSaveE4716F1A481981F937309CADB3D3407A.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.uasset'
+[2024.01.19-23.16.23:514][388]AssetCheck: New page: Asset Save: BPS_AimTrainerSave
+[2024.01.19-23.16.23:514][388]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonTemplate/BPS_AimTrainerSave.BPS_AimTrainerSave
+[2024.01.19-23.19.53:428][917]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.19-23.22.28:659][ 66]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.22.28:755][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.19-23.22.29:379][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.22.29:383][113]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_SpawnerEAA1D16B4E7C0F92D75ABA98B031B94F.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.22.29:398][113]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.22.29:398][113]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.23.27:726][ 53]LogEditorTransaction: Undo Move Node
+[2024.01.19-23.24.11:991][ 58]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.24.11:995][ 58]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_Spawner7AC59467475AFB9A196FD48CE4958215.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.24.12:008][ 58]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.24.12:008][ 58]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.24.13:243][202]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.24.13:325][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.19-23.24.13:742][233]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.24.13:748][233]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_Spawner8F1D59694E23236BE23BD1B5E86DB871.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.24.13:760][233]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.24.13:760][233]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.26.41:829][453]BlueprintLog: New page: Compile BP_Target_Spawner
+[2024.01.19-23.26.41:922][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.19-23.26.42:462][499]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target_Spawner
+[2024.01.19-23.26.42:467][499]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target_SpawnerAC273D904193B6F76A23A5BF32FF2C62.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target_Spawner.uasset'
+[2024.01.19-23.26.42:480][499]AssetCheck: New page: Asset Save: BP_Target_Spawner
+[2024.01.19-23.26.42:480][499]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target_Spawner.BP_Target_Spawner
+[2024.01.19-23.26.44:955][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.19-23.26.44:969][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3
+[2024.01.19-23.26.44:983][780]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training_Auto3BA0BA0F24AC9A59A3C81F7891B3982AE.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.umap'
+[2024.01.19-23.26.45:001][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.101
+[2024.01.19-23.26.45:001][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
