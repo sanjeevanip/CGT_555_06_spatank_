@@ -1319,3 +1319,68 @@ Script Stack (0 frames):
 [2024.01.19-22.21.34:692][695]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training1341A42643FAA8CF5C73A3B4FE8E4DB5.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
 [2024.01.19-22.21.34:724][695]AssetCheck: New page: Asset Save: L_Aim_Training
 [2024.01.19-22.21.34:724][695]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-22.22.16:169][490]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.22.16:205][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.19-22.22.16:209][490]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_737.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.22.16:214][490]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_739.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.22.16:736][540]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.22.16:741][540]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun71EFA3A64D733D72382A509D2849686C.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.22.16:750][540]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.22.16:750][540]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.22.19:467][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-22.22.19:476][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-22.22.19:476][858]PIE: New page: PIE session: L_Aim_Training (Jan 19, 2024, 12:22:19 PM)
+[2024.01.19-22.22.19:514][858]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-22.22.19:517][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003312s)
+[2024.01.19-22.22.19:517][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/L_Aim_Training.L_Aim_Training to /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training (0.003373s)
+[2024.01.19-22.22.19:517][858]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.01.19-22.22.19:517][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.22.19:517][858]LogAIModule: Creating AISystem for world L_Aim_Training
+[2024.01.19-22.22.19:518][858]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2024.01.19-22.22.19:538][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-22.22.19:539][858]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.19-22.22.19:539][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.19-22.22.19:539][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-22.22.19:540][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-22.22.19:540][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-22.22.19:540][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-22.22.19:541][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-22.22.19:567][858]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.19-22.22.19:567][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-22.22.19:567][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-22.22.19:567][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-22.22.19:568][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.19-22.22.19:568][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.19-22.22.19:569][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.19-22.22.19:569][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.19-22.22.19:569][858]LogInit: FAudioDevice initialized.
+[2024.01.19-22.22.19:569][858]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Aim_Training'.
+[2024.01.19-22.22.19:577][858]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2024.01.19-22.22.19:578][858]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training up for play (max tick rate 0) at 2024.01.19-17.22.19
+[2024.01.19-22.22.19:578][858]LogWorld: Bringing up level for play took: 0.001218
+[2024.01.19-22.22.19:579][858]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.01.19-22.22.19:580][858]PIE: Server logged in
+[2024.01.19-22.22.19:581][858]PIE: Play in editor total start time 0.104 seconds.
+[2024.01.19-22.22.26:434][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-22.22.26:434][675]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-22.22.26:434][675]LogWorld: UWorld::CleanupWorld for L_Aim_Training, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.22.26:434][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.22.26:441][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-22.22.26:444][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.22.26:463][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-22.22.26:463][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.19-22.22.26:464][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.19-22.22.26:468][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-22.22.26:470][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.19-22.22.26:540][677]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.01.19-22.22.27:159][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.19-22.22.27:171][745]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-22.22.27:176][745]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_TrainingEF5BEF784B3FE6096259948107DE9819.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-22.22.27:200][745]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-22.22.27:200][745]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
