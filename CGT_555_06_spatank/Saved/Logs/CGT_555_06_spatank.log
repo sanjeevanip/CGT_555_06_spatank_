@@ -2100,3 +2100,431 @@ Make sure 'BP_Target_Spawner_C' has been compiled for  Start Spawning
 [2024.01.19-19.55.48:642][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.01.19-19.55.48:650][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.01.19-19.55.48:669][761]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.19-20.05.33:879][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.19-20.05.33:881][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.062
+[2024.01.19-20.09.53:596][593]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BPi_Damage.BPi_Damage
+[2024.01.19-20.09.53:597][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.12.07:065][300]BlueprintLog: New page: Compile BP_Target
+[2024.01.19-20.12.07:145][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-20.12.07:677][351]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.19-20.12.07:682][351]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_Target62FE3A96445555B1A8C0AAB422386B2D.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.19-20.12.07:693][351]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.19-20.12.07:693][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.19-20.13.51:630][768]LogSavePackage: Moving output files for package: /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter
+[2024.01.19-20.13.51:646][768]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_FirstPersonCharacterED2C604A44F94351814D188E0EC9564D.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset'
+[2024.01.19-20.13.51:663][768]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.19-20.13.51:663][768]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.19-20.15.03:633][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-20.15.03:648][303]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-20.15.03:653][303]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training128E160A4F9C387A1356E4A03704DC87.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-20.15.03:677][303]LogFileHelpers: Saving map 'L_Aim_Training' took 0.099
+[2024.01.19-20.15.03:686][303]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-20.15.03:686][303]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-20.18.50:093][416]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.01.19-20.18.50:168][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-20.18.50:185][416]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:186][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:187][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:188][416]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_4.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:189][416]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:191][416]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:196][416]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:197][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:198][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_109.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:199][416]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:201][416]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:202][416]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.18.50:678][463]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.01.19-20.18.50:683][463]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_WeaponBaseA5C8662E4287BC858356C2A01D041EA9.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.01.19-20.18.50:696][463]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.01.19-20.18.50:696][463]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.01.19-20.19.01:171][694]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.01:171][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.02:861][882]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.02:862][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.04:016][ 12]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-20.19.04:016][ 12]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.04:016][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.04:849][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-20.19.04:849][102]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.04:849][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.05:572][178]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-20.19.05:572][178]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.05:572][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.07:077][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.19-20.19.07:092][333]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-20.19.07:096][333]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training2C09A6A94B72BE646D573798E882836C.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-20.19.07:125][333]LogFileHelpers: Saving map 'L_Aim_Training' took 0.081
+[2024.01.19-20.19.07:133][333]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-20.19.07:133][333]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-20.19.09:302][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-20.19.09:302][579]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.19.09:302][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.19.14:175][137]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Weapons/WB_ReloadBar.WB_ReloadBar
+[2024.01.19-20.19.14:175][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.19.14:176][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.19.14:397][137]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.01.19-20.19.14:397][137]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.01.19-20.21.32:726][238]BlueprintLog: New page: Compile WB_ReloadBar
+[2024.01.19-20.21.32:775][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-20.21.33:536][315]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/WB_ReloadBar
+[2024.01.19-20.21.33:541][315]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/WB_ReloadBarDD77F6A24ADF5698BC4E61A413C15F02.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/WB_ReloadBar.uasset'
+[2024.01.19-20.21.33:556][315]AssetCheck: New page: Asset Save: WB_ReloadBar
+[2024.01.19-20.21.33:556][315]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Weapons/WB_ReloadBar.WB_ReloadBar
+[2024.01.19-20.22.20:512][790]BlueprintLog: New page: Compile WB_ReloadBar
+[2024.01.19-20.22.20:553][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.19-20.22.21:136][845]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/WB_ReloadBar
+[2024.01.19-20.22.21:140][845]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/WB_ReloadBarC1A654594A6AE0975371F7B601823ABD.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/WB_ReloadBar.uasset'
+[2024.01.19-20.22.21:149][845]AssetCheck: New page: Asset Save: WB_ReloadBar
+[2024.01.19-20.22.21:150][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Weapons/WB_ReloadBar.WB_ReloadBar
+[2024.01.19-20.23.30:521][ 31]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/WB_ReloadBar
+[2024.01.19-20.23.30:525][ 31]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/WB_ReloadBarD10B2C054446412D5306738F1DA8B651.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/WB_ReloadBar.uasset'
+[2024.01.19-20.23.30:537][ 31]AssetCheck: New page: Asset Save: WB_ReloadBar
+[2024.01.19-20.23.30:537][ 31]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Weapons/WB_ReloadBar.WB_ReloadBar
+[2024.01.19-20.24.09:356][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-20.24.09:365][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-20.24.09:365][646]PIE: New page: PIE session: L_Aim_Training (Jan 19, 2024, 10:24:09 AM)
+[2024.01.19-20.24.09:401][646]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.24.09:404][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003242s)
+[2024.01.19-20.24.09:404][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/L_Aim_Training.L_Aim_Training to /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training (0.003351s)
+[2024.01.19-20.24.09:405][646]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.01.19-20.24.09:405][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.24.09:405][646]LogAIModule: Creating AISystem for world L_Aim_Training
+[2024.01.19-20.24.09:405][646]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2024.01.19-20.24.09:440][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.19-20.24.09:445][646]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.19-20.24.09:445][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.19-20.24.09:445][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-20.24.09:445][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-20.24.09:445][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-20.24.09:445][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-20.24.09:447][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-20.24.09:474][646]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.19-20.24.09:475][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-20.24.09:475][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-20.24.09:475][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-20.24.09:476][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.01.19-20.24.09:476][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.01.19-20.24.09:477][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.01.19-20.24.09:477][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.01.19-20.24.09:477][646]LogInit: FAudioDevice initialized.
+[2024.01.19-20.24.09:477][646]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Aim_Training'.
+[2024.01.19-20.24.09:484][646]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2024.01.19-20.24.09:485][646]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training up for play (max tick rate 0) at 2024.01.19-15.24.09
+[2024.01.19-20.24.09:486][646]LogWorld: Bringing up level for play took: 0.001187
+[2024.01.19-20.24.09:487][646]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.01.19-20.24.09:488][646]PIE: Server logged in
+[2024.01.19-20.24.09:488][646]PIE: Play in editor total start time 0.123 seconds.
+[2024.01.19-20.24.23:058][268]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.01.19-20.25.31:710][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.25.31:711][500]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.25.31:711][500]LogWorld: UWorld::CleanupWorld for L_Aim_Training, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.25.31:711][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.25.31:719][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-20.25.31:721][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.25.31:753][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-20.25.31:753][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.19-20.25.31:755][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.19-20.25.31:758][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.25.31:760][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.19-20.25.31:816][502]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.01.19-20.25.36:623][ 78]Cmd: SELECT NONE
+[2024.01.19-20.25.38:258][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.19-20.25.38:269][266]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-20.25.38:274][266]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training3278473B4B120DE0487055AACB2762A0.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-20.25.38:300][266]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-20.25.38:300][266]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-20.26.03:917][125]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.01.19-20.26.03:922][125]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BP_WeaponBase7A2A36534C9C330DFE47CCB6ADF08225.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.01.19-20.26.03:932][125]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.01.19-20.26.03:932][125]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.01.19-20.26.07:076][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-20.26.07:085][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-20.26.07:086][484]PIE: New page: PIE session: L_Aim_Training (Jan 19, 2024, 10:26:07 AM)
+[2024.01.19-20.26.07:111][484]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.26.07:114][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002859s)
+[2024.01.19-20.26.07:114][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/L_Aim_Training.L_Aim_Training to /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training (0.002921s)
+[2024.01.19-20.26.07:114][484]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.01.19-20.26.07:114][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.26.07:114][484]LogAIModule: Creating AISystem for world L_Aim_Training
+[2024.01.19-20.26.07:114][484]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2024.01.19-20.26.07:143][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.19-20.26.07:145][484]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.19-20.26.07:145][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.19-20.26.07:145][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-20.26.07:146][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-20.26.07:146][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-20.26.07:146][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-20.26.07:147][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-20.26.07:173][484]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.19-20.26.07:173][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-20.26.07:173][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-20.26.07:173][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-20.26.07:174][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.19-20.26.07:174][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.19-20.26.07:175][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.19-20.26.07:175][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.19-20.26.07:175][484]LogInit: FAudioDevice initialized.
+[2024.01.19-20.26.07:175][484]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Aim_Training'.
+[2024.01.19-20.26.07:183][484]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2024.01.19-20.26.07:184][484]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training up for play (max tick rate 0) at 2024.01.19-15.26.07
+[2024.01.19-20.26.07:185][484]LogWorld: Bringing up level for play took: 0.001437
+[2024.01.19-20.26.07:186][484]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.01.19-20.26.07:187][484]PIE: Server logged in
+[2024.01.19-20.26.07:187][484]PIE: Play in editor total start time 0.102 seconds.
+[2024.01.19-20.27.58:581][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.27.58:582][827]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.27.58:582][827]LogWorld: UWorld::CleanupWorld for L_Aim_Training, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.27.58:582][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.27.58:594][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-20.27.58:597][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.27.58:627][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.27.58:627][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.19-20.27.58:628][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.19-20.27.58:633][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.19-20.27.58:653][828]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.01.19-20.28.16:116][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.19-20.28.16:117][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.28.17:647][ 21]LogViewport: Scene viewport resized to 1166x834, mode Windowed.
+[2024.01.19-20.28.26:730][ 87]LogViewport: Scene viewport resized to 1166x834, mode Windowed.
+[2024.01.19-20.28.41:491][832]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BPC_AssaultRifle.BPC_AssaultRifle
+[2024.01.19-20.28.41:491][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.28.43:286][ 10]LogViewport: Scene viewport resized to 1166x834, mode Windowed.
+[2024.01.19-20.29.03:277][361]Cmd: MODE ROTGRID=0
+[2024.01.19-20.29.05:637][639]Cmd: MODE SCALEGRID=0
+[2024.01.19-20.29.10:443][207]Cmd: MODE GRID=0
+[2024.01.19-20.29.36:809][272]BlueprintLog: New page: Compile BPC_AssaultRifle
+[2024.01.19-20.29.36:918][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-20.29.36:922][272]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:924][272]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:927][272]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:929][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:931][272]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:933][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:946][272]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:948][272]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:951][272]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:953][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:955][272]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.36:956][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-20.29.37:394][314]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_AssaultRifle
+[2024.01.19-20.29.37:401][314]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_AssaultRifle167230C1409A343D4A16938A5BF16B29.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_AssaultRifle.uasset'
+[2024.01.19-20.29.37:413][314]AssetCheck: New page: Asset Save: BPC_AssaultRifle
+[2024.01.19-20.29.37:413][314]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_AssaultRifle.BPC_AssaultRifle
+[2024.01.19-20.29.43:649][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.19-20.29.43:661][  6]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-20.29.43:667][  6]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training1329AFAB4A8D591023DFE39971D3533E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-20.29.43:695][  6]LogFileHelpers: Saving map 'L_Aim_Training' took 0.081
+[2024.01.19-20.29.43:704][  6]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-20.29.43:704][  6]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-20.29.47:285][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-20.29.47:293][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-20.29.47:294][414]PIE: New page: PIE session: L_Aim_Training (Jan 19, 2024, 10:29:47 AM)
+[2024.01.19-20.29.47:294][414]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.29.47:297][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002842s)
+[2024.01.19-20.29.47:297][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/L_Aim_Training.L_Aim_Training to /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training (0.002905s)
+[2024.01.19-20.29.47:297][414]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.01.19-20.29.47:297][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-20.29.47:297][414]LogAIModule: Creating AISystem for world L_Aim_Training
+[2024.01.19-20.29.47:297][414]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2024.01.19-20.29.47:331][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.19-20.29.47:332][414]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.19-20.29.47:332][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.19-20.29.47:332][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-20.29.47:332][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-20.29.47:332][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-20.29.47:332][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-20.29.47:334][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-20.29.47:361][414]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.19-20.29.47:361][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-20.29.47:361][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-20.29.47:361][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-20.29.47:363][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.19-20.29.47:363][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.19-20.29.47:364][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.19-20.29.47:364][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.19-20.29.47:364][414]LogInit: FAudioDevice initialized.
+[2024.01.19-20.29.47:364][414]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Aim_Training'.
+[2024.01.19-20.29.47:371][414]LogLoad: Game class is 'GM_FirstPersonGameMode_C'
+[2024.01.19-20.29.47:372][414]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_L_Aim_Training.L_Aim_Training up for play (max tick rate 0) at 2024.01.19-15.29.47
+[2024.01.19-20.29.47:372][414]LogWorld: Bringing up level for play took: 0.001101
+[2024.01.19-20.29.47:373][414]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.01.19-20.29.47:374][414]PIE: Server logged in
+[2024.01.19-20.29.47:374][414]PIE: Play in editor total start time 0.081 seconds.
+[2024.01.19-20.30.29:562][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.30.29:562][469]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_L_Aim_Training
+[2024.01.19-20.30.29:562][469]LogWorld: UWorld::CleanupWorld for L_Aim_Training, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-20.30.29:562][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.30.29:571][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-20.30.29:575][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.30.29:609][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-20.30.29:610][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.19-20.30.29:612][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.19-20.30.29:615][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-20.30.29:617][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.19-20.30.29:638][470]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.01.19-20.30.30:585][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-20.30.30:600][570]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-20.30.30:605][570]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_TrainingC38A2D4243DCF8F63E3F018781DE1435.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-20.30.30:631][570]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-20.30.30:631][570]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-20.40.30:436][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.19-20.40.30:438][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.047
+[2024.01.19-20.41.26:478][198]LogDerivedDataCache: C:/Users/spatank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.456 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.19-20.50.30:364][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.19-20.50.30:365][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.041
+[2024.01.19-21.00.30:302][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.19-21.00.30:303][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.044
+[2024.01.19-21.10.30:231][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.19-21.10.30:232][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.041
+[2024.01.19-21.20.30:165][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.19-21.20.30:167][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.042
+[2024.01.19-21.30.30:094][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-21.30.30:095][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.037
+[2024.01.19-21.40.30:051][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.19-21.40.30:052][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.038
+[2024.01.19-21.41.26:477][500]LogDerivedDataCache: C:/Users/spatank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.456 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.19-21.50.29:999][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.19-21.50.30:000][649]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.038
+[2024.01.19-22.00.29:913][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.19-22.00.29:914][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.037
+[2024.01.19-22.01.05:490][805]LogViewport: Scene viewport resized to 968x653, mode Windowed.
+[2024.01.19-22.01.09:034][221]LogViewport: Scene viewport resized to 1166x834, mode Windowed.
+[2024.01.19-22.01.25:476][142]BlueprintLog: New page: Compile BPC_AssaultRifle
+[2024.01.19-22.01.25:533][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-22.01.25:536][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:538][142]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:539][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:540][142]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:543][142]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:545][142]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:559][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:561][142]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training.L_Aim_Training:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:562][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:563][142]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto3.L_Aim_Training_Auto3:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:566][142]LogActorComponent: RegisterComponentWithWorld: (/Game/Assets/Maps/L_Aim_Training-X-knoy378pc08.L_Aim_Training-X-knoy378pc08:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.25:568][142]LogActorComponent: RegisterComponentWithWorld: (/Temp/Autosaves/Game/Assets/Maps/L_Aim_Training_Auto2.L_Aim_Training_Auto2:PersistentLevel.DESTROYED_BPC_AssaultRifle_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.19-22.01.26:118][194]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_AssaultRifle
+[2024.01.19-22.01.26:123][194]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_AssaultRifle3A7D29A14281D26FA5D8A399913A2AF9.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_AssaultRifle.uasset'
+[2024.01.19-22.01.26:136][194]AssetCheck: New page: Asset Save: BPC_AssaultRifle
+[2024.01.19-22.01.26:137][194]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_AssaultRifle.BPC_AssaultRifle
+[2024.01.19-22.01.45:836][512]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.01.19-22.01.45:836][512]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.01.19-22.01.46:410][576]LogContentBrowser: Deferred new asset file creation: BPC_AssaultRifle1
+[2024.01.19-22.01.46:416][576]LogContentBrowser: Creating deferred item: BPC_AssaultRifle1
+[2024.01.19-22.01.46:421][577]LogContentBrowser: Renaming the item being created (Deferred Item: BPC_AssaultRifle1).
+[2024.01.19-22.01.56:774][798]LogContentBrowser: Attempting asset rename: BPC_AssaultRifle1 -> BPC_Shotgun
+[2024.01.19-22.01.56:814][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.19-22.01.56:823][798]LogContentBrowser: End creating deferred item BPC_AssaultRifle1
+[2024.01.19-22.02.05:741][863]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.02.05:742][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.02.08:661][157]LogViewport: Scene viewport resized to 1166x834, mode Windowed.
+[2024.01.19-22.02.14:536][852]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.19-22.02.19:523][437]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.19-22.02.26:019][202]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.02.26:019][202]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun39DCDCA544F7F32FA97191B1175DF51B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.02.26:029][202]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.02.26:029][202]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.03.02:023][499]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.03.02:078][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-22.03.02:484][537]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.03.02:488][537]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun79162E0E42AFA33906B478901D3CFDA5.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.03.02:508][537]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.03.02:508][537]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.03.25:716][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BPFL_Traces.BPFL_Traces
+[2024.01.19-22.03.25:717][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.03.46:728][760]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.03.46:728][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.04.05:817][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BPFL_Traces.BPFL_Traces
+[2024.01.19-22.04.05:817][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-22.04.17:301][339]Cmd: TRANSACTION UNDO
+[2024.01.19-22.04.17:302][339]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.19-22.05.59:350][140]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.05.59:409][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-22.05.59:939][192]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.05.59:953][192]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_ShotgunF1006A804B9B79AC9D4F849BE26BDC46.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.05.59:965][192]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.05.59:965][192]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.06.14:358][891]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.06.14:412][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.19-22.06.15:034][953]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.06.15:037][953]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_ShotgunE3E2D10B4883B926ECC324896D9AC843.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.06.15:047][953]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.06.15:047][953]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.06.54:395][624]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.06.54:450][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-22.06.55:050][684]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.06.55:054][684]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun876D09CB45C605505F71178E9DEB3667.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.06.55:062][684]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.06.55:062][684]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.07.03:434][670]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.07.03:438][670]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun8DB1685343FCFB86DC3BE890C9D9561B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.07.03:459][670]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.07.03:459][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.07.06:637][ 43]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.07.06:690][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.19-22.07.07:468][124]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.07.07:472][124]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun687EE29444B1792E2E0AEE936C432F20.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.07.07:491][124]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.07.07:491][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.07.26:634][316]BlueprintLog: New page: Compile BPC_Shotgun
+[2024.01.19-22.07.26:690][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.19-22.07.27:102][351]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPC_Shotgun
+[2024.01.19-22.07.27:107][351]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/BPC_Shotgun9F1F5F4245B1D7C07F3A7F8B835FD993.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Blueprints/Weapons/BPC_Shotgun.uasset'
+[2024.01.19-22.07.27:129][351]AssetCheck: New page: Asset Save: BPC_Shotgun
+[2024.01.19-22.07.27:129][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BPC_Shotgun.BPC_Shotgun
+[2024.01.19-22.07.28:627][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-22.07.28:640][509]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-22.07.28:644][509]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training45EA13EC401A48AC92CA4081666B2530.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-22.07.28:667][509]LogFileHelpers: Saving map 'L_Aim_Training' took 0.080
+[2024.01.19-22.07.28:675][509]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-22.07.28:675][509]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-22.07.41:136][945]BlueprintLog: New page: Compile L_Aim_Training
+[2024.01.19-22.07.41:190][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-22.07.41:610][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.19-22.07.41:626][984]LogSavePackage: Moving output files for package: /Game/Assets/Maps/L_Aim_Training
+[2024.01.19-22.07.41:631][984]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Saved/L_Aim_Training7DDC7D60405E4C7817300BA12DE87ABD.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_06_spatank_/CGT_555_06_spatank/Content/Assets/Maps/L_Aim_Training.umap'
+[2024.01.19-22.07.41:653][984]LogFileHelpers: Saving map 'L_Aim_Training' took 0.082
+[2024.01.19-22.07.41:662][984]AssetCheck: New page: Asset Save: L_Aim_Training
+[2024.01.19-22.07.41:662][984]LogContentValidation: Display: Validating World /Game/Assets/Maps/L_Aim_Training.L_Aim_Training
+[2024.01.19-22.07.42:880][121]LogSlate: Window 'BPFL_Traces' being destroyed
+[2024.01.19-22.07.42:884][121]LogSlate: Window 'BPFL_Traces' being destroyed
+[2024.01.19-22.07.42:897][121]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.42:897][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.42:956][121]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.42:957][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.42:994][121]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.42:994][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:044][121]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:044][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:054][121]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:054][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:096][121]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-22.07.43:097][121]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:097][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:175][121]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-22.07.43:175][121]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:175][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:232][121]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.19-22.07.43:232][121]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:232][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-22.07.43:279][121]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-22.07.43:279][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
